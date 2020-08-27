@@ -1,5 +1,5 @@
 <html>
 
-
+BEANS
 
 </html>
