@@ -1,3 +1,3 @@
 <html>
-
+Beans
 </html>
